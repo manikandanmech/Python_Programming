@@ -6,7 +6,7 @@ In programming, a "variable" is a container in which a data value can be stored 
 variable_name = variable_value
 
 #Example:
-a = 10;
+a = 10
 name = "Joes"
 
 
